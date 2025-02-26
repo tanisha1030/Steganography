@@ -2,7 +2,7 @@ import cv2
 import os
 import string
 
-img = cv2.imread("/content/Screenshot 2024-04-30 221446.png") # Replace with the correct image path
+img = cv2.imread("/content/tanisha.jpg") # Replace with the correct image path
 
 msg = input("Enter secret message:")
 password = input("Enter a passcode:")
